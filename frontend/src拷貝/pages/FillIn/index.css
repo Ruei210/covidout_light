@@ -1,0 +1,74 @@
+/* *{
+    font-size: 16px;
+}
+form{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-left: 100px;
+    padding-right:100px ;
+}
+form>div{
+    width: 500px;
+    margin-top:10px;
+    margin-bottom:10px ;
+    border: 1px grey solid;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+button{
+    width: 530px;
+    margin-top: 10px;
+}
+button>a{
+    display: block;
+    width: 100%;
+}
+.card>.inputGroup{
+    margin: 10px;
+}
+.inputGroup>label{
+    display: block;
+    margin-bottom: 3px;
+}
+.radioGroup>label{
+    display: inline;
+}
+.inputGroup>input{
+    margin-left: 5px;
+    width: 180px;   
+    height: 30px;
+}
+.radioGroup>div{
+    display: inline;
+    margin-left: 10px;
+}
+
+.inputGroup>.formText{
+    color:grey;
+    width: 100%;
+    font-size: 12px;
+    height:20px ;
+    margin-left: 5px;
+}
+.selectGroup>div{
+    width: 162px;   
+    height: 30px;
+    height: 15.333;
+}
+.selectGroup>div>select{
+    margin-left: 5px;
+    outline: none;
+    width: 100%;
+    height: 30px;
+}
+
+
+
+#id_number{
+    text-transform:uppercase;
+}
+#email{
+    width: 250px;
+} */
